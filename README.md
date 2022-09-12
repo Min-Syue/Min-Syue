@@ -5,7 +5,7 @@
 :adult: 關於我 <br>
 - :computer: 對於人工智慧、前後端技術感興趣 <br>
 - :airplane: 休閒時間喜歡與朋友出們踏青 <br>
-- :email: 歡迎跟我聯絡 (minsyue0504@gmail.com)
+- :email: 歡迎跟我聯絡 (minsyue054w@gmail.com)
 - :musical_note: 喜歡聽中文說唱和華語歌曲
 
 ### :briefcase: 技術工具
