@@ -9,6 +9,6 @@
 - :musical_note: 喜歡聽中文說唱和華語歌曲
 
 ### :briefcase: 技術工具
-![](https://img.shields.io/badge/-Python-lightgrey) ![](https://img.shields.io/badge/-Tensorflow-lightgrey) ![](https://img.shields.io/badge/-Keras-lightgrey) ![](https://img.shields.io/badge/-Flask-lightgrey) <br>
+![](https://img.shields.io/badge/-Python-lightgrey) ![](https://img.shields.io/badge/-Tensorflow-lightgrey) ![](https://img.shields.io/badge/-Keras-lightgrey) ![](https://img.shields.io/badge/-Flask-lightgrey) ![](https://img.shields.io/badge/-Scikit--Learn-lightgrey) <br>
 ![](https://img.shields.io/badge/-Git-yellow) ![](https://img.shields.io/badge/-Github-yellow) ![](https://img.shields.io/badge/-Markdown-yellow) <br>
 ![](https://img.shields.io/badge/-VScode-green)
