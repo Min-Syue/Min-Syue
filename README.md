@@ -1,4 +1,4 @@
-## 👋 嗨 我是張民學 (James Chang)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1D2AF7&width=435&lines=HI%EF%BC%81I'm+Chang+Min-Syue)](https://git.io/typing-svg)
 
 <br>
 
