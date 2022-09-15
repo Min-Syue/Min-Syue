@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1D2AF7&width=435&lines=HI%EF%BC%81I'm+Chang+Min-Syue)](https://git.io/typing-svg)
 
-<br>
-
 :adult: 關於我 <br>
 - :computer: 對於人工智慧、前後端技術感興趣 <br>
 - :airplane: 休閒時間喜歡與朋友出們踏青 <br>
